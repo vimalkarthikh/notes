@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g fill="#D8D8D8" transform="translate(-43 -35)">
+    <polygon fill-opacity=".1" points="33 0 113 13 83 61"/>
+    <polygon fill-opacity=".23" points="0 68 33 0 83 61"/>
+    <polygon fill-opacity=".01" points="83 61 113 13 142 76"/>
+    <polygon fill-opacity=".29" points="0 68 35 126 83 61"/>
+    <polygon fill-opacity=".2" points="35 126 94 121 83 61"/>
+    <polygon fill-opacity=".2" points="83 61 94 121 142 76"/>
+  </g>
+</svg>

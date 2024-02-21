@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g fill="none" fill-rule="evenodd">
+    <polyline stroke="#FFF" stroke-opacity=".5" stroke-width=".5" points="35 3 23 21 7 25 -1 34"/>
+    <polyline stroke="#FFF" points="23 21 30 35 43 51"/>
+    <polyline stroke="#FFF" stroke-opacity=".5" stroke-width=".5" points="39 56 43 51 46 23 35 3"/>
+    <polyline stroke="#FFF" stroke-opacity=".5" stroke-width=".5" points="35 3 57 17 46 23 30 34 11 59"/>
+    <polyline stroke="#FFF" stroke-width=".75" points="57 25 46 23 23 21"/>
+    <path stroke="#FFF" stroke-opacity=".5" stroke-width=".2" d="M7,25 L13,59"/>
+    <path stroke="#FFF" stroke-opacity=".5" stroke-width=".3" d="M35,3 L30,34"/>
+    <path stroke="#FFF" stroke-opacity=".5" stroke-width=".2" d="M7,25 L29,34"/>
+    <circle cx="29.5" cy="34.5" r="1.5" fill="#FFF" fill-rule="nonzero"/>
+    <circle cx="43.5" cy="51.5" r="1.5" fill="#FFF" fill-rule="nonzero"/>
+    <circle cx="23" cy="21" r="1" fill="#FFF" fill-rule="nonzero"/>
+    <circle cx="46" cy="23" r="1" fill="#FFF" fill-rule="nonzero"/>
+    <circle cx="35" cy="3" r="1" fill="#FFF" fill-rule="nonzero"/>
+  </g>
+</svg>
